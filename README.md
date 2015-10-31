@@ -1,15 +1,15 @@
 
 # Simplified Reveal.js
 
-Simplified Reveal.js using the latest [3.1.0](https://github.com/hakimel/reveal.js/releases/tag/3.1.0) release. Set to use markdown as presentation source.
+Simplified [Reveal.js](https://github.com/hakimel/reveal.js) using the latest [3.1.0](https://github.com/hakimel/reveal.js/releases/tag/3.1.0) release. Set to use markdown as presentation source.
 
 # Flow
 
 * Download zip archive of the repo [https://github.com/arifsetiawan/reveal-base/archive/master.zip](https://github.com/arifsetiawan/reveal-base/archive/master.zip)
 * Extract
-* Update index.html data on title, description and author
-* Update slides.md with your own content
-* Run static file server on your folder (for example, using python: python -m SimpleHTTPServer)
+* Update [index.html](index.html) data on title, description and author
+* Update [slides.md](slides.md) with your own content
+* Run static file server on your folder (for example, using python: `python -m SimpleHTTPServer`)
 * Glory!
 
 # Example markdown
